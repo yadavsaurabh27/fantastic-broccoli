@@ -1,0 +1,4 @@
+a=int(input("Enter any variabl eto search"))
+b=int(input("Entewr the variable to be replaced by :"))
+print("a+b", as py.num)
+import pickle
